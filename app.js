@@ -1,3 +1,5 @@
+//Hello I'm adding comments on each part because I'm still getting the hang of javascript. This is year 2021. Goodluck to me
+
 const videoCardContainer =document.querySelector(".videocontainer");
 
 let API_KEY= "AIzaSyAASO2LT-rS_on3xNsnjpvH1M3bi3eeaLQ";
